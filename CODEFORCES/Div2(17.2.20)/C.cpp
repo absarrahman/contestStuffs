@@ -6,7 +6,7 @@ int main()
     string s;
     cin>>s;
     map<string,int>m;
-    vector<string> v;
+ //   vector<string> v;
 
     for(int i=0;i<s.size();i++){
         string a ="";
